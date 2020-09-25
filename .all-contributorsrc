@@ -690,6 +690,43 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "justinhhorner",
+      "name": "Justin Horner",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4635843?v=4",
+      "profile": "https://github.com/justinhhorner",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "king-11",
+      "name": "Lakshya Singh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/52061363?v=4",
+      "profile": "https://github.com/king-11",
+      "contributions": [
+        "test",
+        "content"
+      ]
+    },
+    {
+      "login": "KentonMa",
+      "name": "Kenton Ma",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/14211998?v=4",
+      "profile": "https://kentonma.ca",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "knightspore",
+      "name": "Ciaran",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/51886151?v=4",
+      "profile": "https://ciaran.co.za",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
